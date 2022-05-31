@@ -1,2 +1,4 @@
 Acervo       - https://acervolima.com/category/python/https://acervolima.com/category/python/https://acervolima.com/category/python/
 Repositórios - https://medium.com/pythoneers/7-best-github-repositories-for-learning-data-science-b9911199a7b7
+
+donnemartir  - https://github.com/donnemartin/data-science-ipython-notebooks
