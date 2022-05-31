@@ -1,5 +1,6 @@
 # Aqui eu começo meus estudos em python
 # Sempre quando acabar o código quebrar uma linha para o compilador entender que o código acaba ali
+# Dica - Entrar Zen mode (Crtl + K Z) e para sair (Crtl K Z)
 
 print ('Hello World')
 print ('Diga oi para todos')
