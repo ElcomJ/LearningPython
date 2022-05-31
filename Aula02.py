@@ -7,5 +7,3 @@ idade = input('Qual é a sua idade')
 sexo  = input('Qual é o seu sexo?')
 
 print (nome, idade, sexo) #A virgula é utilizada quando precisa se juntar uma string com uma váriavel numérica.
-
-

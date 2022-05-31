@@ -1,4 +1,5 @@
 # Aqui eu começo meus estudos em python
+# Sempre quando acabar o código quebrar uma linha para o compilador entender que o código acaba ali
 
 print ('Hello World')
 print ('Diga oi para todos')
