@@ -11,4 +11,5 @@ n2 = int(input('Digite outro numero: '))
 soma = n1 + n2
 
 # print('A soma de ',n1,' e de ',n2,' é de: {}'.format(soma))
-print('A soma entre {} e {} vale {}'.format(n1, n2, soma))  # A {} é utilizada para poder receber valores formatados com o .format
+#print('A soma entre {} e {} vale {}'.format(n1, n2, soma))  # A {} é utilizada para poder receber valores formatados com o .format
+print(f'A soma de {n1} e {n2} e de {soma}')
