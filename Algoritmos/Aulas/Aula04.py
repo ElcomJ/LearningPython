@@ -12,4 +12,4 @@ soma = n1 + n2
 
 # print('A soma de ',n1,' e de ',n2,' é de: {}'.format(soma))
 #print('A soma entre {} e {} vale {}'.format(n1, n2, soma))  # A {} é utilizada para poder receber valores formatados com o .format
-print(f'A soma de {n1} e {n2} e de {soma}')
+print(f'A soma de {n1} e {n2} e de {soma}')  #Se por o f antes da mensagem é so passar a variavel direto que vai.
