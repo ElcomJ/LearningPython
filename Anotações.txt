@@ -13,10 +13,17 @@ env\Scripts\Activate
 pip install pyspark
 pip install pandas
 
+pip freeze para ver as libs instaladas na env
+sair da env e dar pip freeze para ver se não instalou nada sem querer no local
+
 trocar para a env criada
 instalar a extensão 'jupyter notebook' no vscode
 criar um notebook = teste.ipynb
 trocar para a env criada com as libs pyspark e pandas
 executar Hello World no notebook e instalar o kernel dele na env
+
+Criar o requirements.txt
+pip freeze > requirements.txt
+pip install -r requirements.txt
 
 Ser Feliz!
