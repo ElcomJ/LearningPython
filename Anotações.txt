@@ -3,3 +3,20 @@ Data Science:
 Acervo       - https://acervolima.com/category/python/https://acervolima.com/category/python/https://acervolima.com/category/python/
 Repositórios - https://medium.com/pythoneers/7-best-github-repositories-for-learning-data-science-b9911199a7b7
 donnemartir  - https://github.com/donnemartin/data-science-ipython-notebook
+
+
+Tutorial: env + jupyter nootbook com pyspark
+
+python -m venv (nome da env)
+env\Scripts\Activate
+
+pip install pyspark
+pip install pandas
+
+trocar para a env criada
+instalar a extensão 'jupyter notebook' no vscode
+criar um notebook = teste.ipynb
+trocar para a env criada com as libs pyspark e pandas
+executar Hello World no notebook e instalar o kernel dele na env
+
+Ser Feliz!
