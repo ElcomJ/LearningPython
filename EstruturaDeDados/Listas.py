@@ -1,4 +1,4 @@
-lista1 = ['python', 'php', 'javascript']
+ttsta1 = ['python', 'php', 'javascript']
 lista2 = [22, 315.25, 10 + 5j]
 lista3 = [15, 254, 17.5]
 
