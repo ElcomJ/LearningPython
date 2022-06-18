@@ -14,7 +14,3 @@ print('A multiplicação de {} e {} é de {}'.format(i, j, multiplicação))
 print('A subtracao de {} e {} é de {}'.format(i, j, subtracao))
 
 
-
-
-
-
