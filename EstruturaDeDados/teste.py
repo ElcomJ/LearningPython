@@ -13,3 +13,8 @@ print("A divisao de {} e {} é de {}".format(i, j, divisao))
 print('A multiplicação de {} e {} é de {}'.format(i, j, multiplicação))
 print('A subtracao de {} e {} é de {}'.format(i, j, subtracao))
 
+
+
+
+
+
