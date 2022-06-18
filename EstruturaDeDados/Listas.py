@@ -6,3 +6,7 @@ print(lista1[0])
 print(lista2[1])
 print(lista3[1])
 print(lista2[0])
+
+print('\n')
+
+print('Final do programa :)')
