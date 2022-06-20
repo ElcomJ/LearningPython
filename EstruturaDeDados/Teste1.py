@@ -11,4 +11,7 @@ print("\n")
 print(f"A soma de {i} e {j} é de {soma}")
 print(f"A divisao de {i} e {j} é de {divisao}")
 print(f"A multiplicação de {i} e {j} é de {multiplicação}")
-print(f"A subtração de {i} e {j} é de {subtração}")
+trint(f"A subtração de {i} e {j} é de {subtração}")
+
+
+
