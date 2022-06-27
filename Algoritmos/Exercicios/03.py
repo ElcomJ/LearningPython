@@ -6,5 +6,4 @@ n3 = int(input('Digite um numero: '))
 
 soma = n1+n2+n3
 
-print('A soma entre {} e {} é de {}'.format(n1, n2, soma))
-print('')
+print(f'A soma entre {n1} e {n2} e {n3} e de {soma}')
